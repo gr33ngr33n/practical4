@@ -16,7 +16,8 @@
   
   <build>
     <sourceDirectory>src</sourceDirectory>
-        
+    <finalName>ROOT</finalName>
+    
     <plugins>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
